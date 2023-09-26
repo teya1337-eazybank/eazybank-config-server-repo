@@ -1,3 +1,12 @@
 logging:
   level:
     com.teya1337.cards: DEBUG
+
+cards:
+  message: "Welcome to EazyBank Cards Default APIs"
+  contactDetails:
+    name: "Gary Garrison - Developer"
+    email: "gary@example.com"
+  onCallSupport:
+    - (999) 444-2222
+    - (999) 444-3333
