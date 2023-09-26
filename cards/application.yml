@@ -1,0 +1,3 @@
+logging:
+  level:
+    com.teya1337.cards: DEBUG

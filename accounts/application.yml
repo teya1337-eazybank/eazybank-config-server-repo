@@ -1,0 +1,12 @@
+logging:
+  level:
+    com.teya1337.accounts: DEBUG
+
+accounts:
+    message: "Welcome to EazyBank Accounts Default APIs"
+    contactDetails:
+      name: "Alice Allison - Developer"
+      email: "alice@example.com"
+    onCallSupport:
+      - (555) 555-1111
+      - (555) 555-2222

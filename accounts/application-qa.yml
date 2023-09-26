@@ -1,0 +1,8 @@
+accounts:
+    message: "Welcome to EazyBank Accounts QA APIs"
+    contactDetails:
+      name: "Bob Bobson - QA Lead"
+      email: "bob@example.com"
+    onCallSupport:
+      - (555) 555-3333
+      - (555) 555-4444

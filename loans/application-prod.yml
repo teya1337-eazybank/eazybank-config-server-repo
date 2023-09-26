@@ -1,0 +1,8 @@
+loans:
+  message: "Welcome to EazyBank Loans Prod APIs"
+  contactDetails:
+    name: "Frank Frankson - Product Owner"
+    email: "frank@example.com"
+  onCallSupport:
+    - (666) 111-5555
+    - (666) 111-6666

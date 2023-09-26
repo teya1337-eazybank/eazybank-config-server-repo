@@ -1,0 +1,8 @@
+cards:
+  message: "Welcome to EazyBank Cards QA APIs"
+  contactDetails:
+    name: "Harry Harrison - QA Lead"
+    email: "harry@example.com"
+  onCallSupport:
+    - (999) 444-6666
+    - (999) 444-7777

@@ -1,0 +1,8 @@
+accounts:
+  message: "Welcome to EazyBank Accounts Prod APIs"
+  contactDetails:
+    name: "Charlotte Charleson- Product Owner"
+    email: "charlotte@example.com"
+  onCallSupport:
+    - (555) 555-5555
+    - (555) 555-6666

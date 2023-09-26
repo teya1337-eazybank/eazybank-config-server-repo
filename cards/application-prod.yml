@@ -1,0 +1,8 @@
+cards:
+  message: "Welcome to EazyBank Loans Prod APIs"
+  contactDetails:
+    name: "Iris Irison - Product Owner"
+    email: "iris@example.com"
+  onCallSupport:
+    - (999) 777-8888
+    - (999) 777-9999

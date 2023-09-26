@@ -1,0 +1,8 @@
+loans:
+  message: "Welcome to EazyBank Loans QA APIs"
+  contactDetails:
+    name: "Emma Emmerson - QA Lead"
+    email: "emma@example.com"
+  onCallSupport:
+    - (666) 111-3333
+    - (666) 111-4444

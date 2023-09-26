@@ -1,0 +1,12 @@
+logging:
+  level:
+    com.teya1337.loans: DEBUG
+
+loans:
+  message: "Welcome to EazyBank Loans Default APIs"
+  contactDetails:
+    name: "David Davidson - Developer"
+    email: "david@example.com"
+  onCallSupport:
+      - (666) 111-1111
+      - (666) 111-2222
