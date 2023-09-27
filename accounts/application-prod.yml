@@ -2,7 +2,7 @@ accounts:
   message: "Welcome to EazyBank Accounts Prod APIs"
   contactDetails:
     name: "Charlotte Charleson- Product Owner"
-    email: "charlotte@example.com"
+    email: "{cipher}AQCBNGdS0x3JsnCzQ3XkLyOGYErn8TIBKtpXWwaU3rKUA0lqmvoTk4bCBKnsDDU5sdGCeN4Wpj5rHx2H57GgNUayKY58vNX5O6QHbr4H/ltR/kBWeymuJ+3v9+wDeLiZyIyYj2rjwvmyIE9fKcx2Lb6SNkIl9NHSIxazOJ8nP4f7JSrqqC9mbXwJq8zZetZuqrdvwGl5qJv/TwyZTq1nQlu8UDirtIdx+mFTk+XlIwwHUlaBfVvGZSHyvaWg19BqUFW9D38AAT6+Y5oXvWcl68PCZ90PzEmkCREm3DVh9TNLAu4YpeoykD4nXD0HTiVj9Co3NBdkpAe0UqBU2B4Xu2k9fnf+apZdEhnsBpXbLkQ/VlPfw3kn8doNuoqqIuUQUy+XmDF/mtqKEttRlId92Dc8"
   onCallSupport:
     - (555) 555-5555
     - (555) 555-6666

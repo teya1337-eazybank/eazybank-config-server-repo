@@ -2,7 +2,7 @@ cards:
   message: "Welcome to EazyBank Loans Prod APIs"
   contactDetails:
     name: "Iris Irison - Product Owner"
-    email: "iris@example.com"
+    email: "{cipher}AQAKwIugMFnzsIW70aYf4siIeTPsp483mwvcEi0tc5gAmP1wpRa2f39AYGrw3svOZhVz9UZWwjkLKXyH5nzH581+Hnp254W7xHxKuS7ZIiiwwH0FRrEe5vl2BR9JefezxnMhMK0cKRPkdYUEN+LAB1v1UvdjEx7/LaPfgPPRp3SUWzWj79BEm6yZ+9yHymHYX+6bFZbp1eR6eT1699HBP+vHhyl84A5Kwty1AlAY7u0mVcn4cu+kK66DBSYuJE74tJlvJPfB6u2BrJHgvjCFn40kY39F0jMU585X5LcgswpKPBwEvV3v/q4sFxkGPT3qYdi8R39l+v8PWXFR4sl/LeXDZMqC8ZQ2SwBV2VfJ+nGjHyhmXKcbgxTbrMJwrdMWZ3rZQc0XWT2vTb8mtrRV7X7f"
   onCallSupport:
     - (999) 777-8888
     - (999) 777-9999

@@ -6,7 +6,7 @@ accounts:
     message: "Welcome to EazyBank Accounts Default APIs"
     contactDetails:
       name: "Alice Allison - Developer"
-      email: "alice@example.com"
+      email: "{cipher}AQCNd6CV45paXU9VZyvPRurtu8h4251r6AdqJZ94/5ay63R/FaP+F0+FNYIh/CS+ebvBLggIN0FK9dUmfvP4Wee9algha+gfLZ2e/tInPR07iDTUYv2Td0fXKXBG58vP8Ayw3kxbjhYe9NjcnR6Asdguq59KxnNHRfM51eyu9/gHJOyudsSPJWT7X/2HlPXSUUOPAy+6WxoaNORIsuDDwXehJZYvhng7WT1qQCiPYf9K1DZglT8tk9680RpHb6tMH4CntjscmEn/Bn5CLaOgsfB2h7mh2hCOtAdBpiNqyFnA3zsu/xCNHE20MnTIUTpiMiMDhhVqG0kcjQYDw++XUo+ed6DRp0yHcC65G4ADs5KZeIT3X7XLAY/euY9FgSBjaMm8tCO1+WW+Go452StZ669C"
     onCallSupport:
       - (555) 555-1111
       - (555) 555-2222

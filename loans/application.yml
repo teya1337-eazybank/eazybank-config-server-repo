@@ -6,7 +6,7 @@ loans:
   message: "Welcome to EazyBank Loans Default APIs"
   contactDetails:
     name: "David Davidson - Developer"
-    email: "david@example.com"
+    email: "{cipher}AQBDKoJHdtRFUI54AMudlLLu1DyTPu+zsu9apcHtP2RtKZ+QSRcgXSg/Pmo2vqJMRmcORRDP7zqVgy1WCuJNqkP0cZP1Lbuv+IIC4s9zRVBAIvwrmGFhV6v2gzQJQq1x0IIf5cQpJTDjNr0spSVVHnrM2V8jZcFbuiYmyz5/GC0lC8qCDfzzZqpChWBwZfM+LGmMz9/qhGNPvTOLGk5X0+ghIZ8iTmrc56hrFm9dQ1Pze6CLhtNf0rdyzA2taUUdDB8ikmukVOOVoIwbYkzfgkNPVoY2lwD86hkGNqwqW+oZGgTEq5VHGU42VbmmR6RrC3YjgoX1KVh4uXFYtgmPWDzlcOO/vYG9IQjw6lZPaR5G7Pm3KZFXmz/qVxBMXt1Zb0hxvPG1HJbRsd6BFE8LSToX"
   onCallSupport:
       - (666) 111-1111
       - (666) 111-2222

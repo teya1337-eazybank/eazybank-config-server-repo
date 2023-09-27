@@ -2,7 +2,7 @@ loans:
   message: "Welcome to EazyBank Loans Prod APIs"
   contactDetails:
     name: "Frank Frankson - Product Owner"
-    email: "frank@example.com"
+    email: "{cipher}AQCg9AIkFvMGGHrDlFhxjyWeDpb/SSW1474P6vOBC3iD4RvDcKdsQbsi3gcmxwhFuM+oyF82a1kvHNdM6J1Fh0wv+ligdRc1/n0XJlAAM1YducubAfBgXJMA6IyI8NAuqemD/cgsKT0/Bbev/pkUJRY+iuOfwSS9UC9A3dpWEwgNStzPjBYUdQT9k1n3gFqSGUH4kP4fgkr+X+sPBHfmG439h2eIA5rxdqXH4XvELz0QXZXawPb8oIR5LEKFZ7oFsqP+fKQ8DFUQeO+MoV30KjiSMbzt5QBq+AJ+BFmFuDQiEXtIsIUA7yC5bdRft7ksEcyzU2gjL9GTQF/NdwjOFlRbASVL8lr0Z0qV1dmAtf9RturP6yby4asa1p5+GoSj6mDBL23FYEaR4zHL8iYdJTyk"
   onCallSupport:
     - (666) 111-5555
     - (666) 111-6666
