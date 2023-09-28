@@ -43,29 +43,9 @@ spring:
       schema-locations: classpath:scripts/init-schema.sql
       mode: always
 
-  # DESC: For refreshing configs from config server
-  cloud:
-    bus:
-      enabled: true
-      refresh:
-        enabled: true
-
-  rabbitmq:
-    host: ${RABBITMQ_HOST}
-    port: ${RABBITMQ_PORT}
-    username: ${RABBITMQ_USERNAME}
-    password: ${RABBITMQ_PASSWORD}
-
 endpoints:
   shutdown:
     enabled: true
-
-  # DESC: Enable the "/actuator/busrefresh" endpoint
-  spring:
-    cloud:
-      bus:
-        refresh:
-          enabled: true
 
 # DESC: Actuator endpoint management
 management:
