@@ -43,6 +43,12 @@ spring:
       schema-locations: classpath:scripts/init-schema.sql
       mode: always
 
+  rabbitmq:
+    host: ${RABBITMQ_HOST}
+    port: ${RABBITMQ_PORT}
+    username: ${RABBITMQ_USERNAME}
+    password: ${RABBITMQ_PASSWORD}
+
 endpoints:
   shutdown:
     enabled: true
