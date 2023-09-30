@@ -62,12 +62,23 @@ management:
       exposure:
         include: '*'
 
+  endpoint:
+    # DESC: Enables the "/actuator/shutdown" endpoint
+    shutdown:
+      enabled: true
+
+    # DESC: Enable us to probe "/actuator/health/liveness" & "/actuator/health/readiness" endpoints
+    health:
+      probes:
+        enabled: true
+  # DESC: Enable "/actuator/health/liveness" & "/actuator/health/readiness" endpoints
+  health:
+    livenessstate:
+      enabled: true
+    readinessstate:
+      enabled: true
+
   # DESC: For enabling the "/actuator/info" endpoint
   info:
     env:
-      enabled: true
-
-  # DESC: Enables the "actuator/shutdown" endpoint
-  endpoint:
-    shutdown:
       enabled: true
