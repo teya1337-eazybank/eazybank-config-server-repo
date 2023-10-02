@@ -50,6 +50,29 @@ spring:
     username: ${RABBITMQ_USERNAME}
     password: ${RABBITMQ_PASSWORD}
 
+  # DESC: Go to eureka to find the config server to get configs
+  cloud:
+    config:
+      discovery:
+        enabled: true
+        service-id: ${SPRING_CLOUD_CONFIG_DISCOVERY_SERVICEID}
+
+eureka:
+  instance:
+    # DESC: Setting 'true' tells this service to register with eureka using its IP address instead of its hostname as obtained by the OS/DNS
+    # RECOMMENDED: Setting 'true' to 'prefer-ip-address' is the recommended approach.
+    prefer-ip-address: true
+
+  # DESC: Enable yourself to query the eureka registry (to find services)
+  # DESC: Register yourself with eureka
+  # DESC: Locate eureka at the specified url
+  client:
+    enabled: true
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: ${EUREKA_CLIENT_SERVICEURL_DEFAULTZONE}
+
 endpoints:
   shutdown:
     enabled: true
