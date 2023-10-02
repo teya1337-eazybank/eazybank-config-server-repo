@@ -1,7 +1,3 @@
-logging:
-  level:
-    com.teya1337.loans: DEBUG
-
 loans:
   message: "Welcome to EazyBank Loans Default APIs"
   contactDetails:
@@ -10,3 +6,10 @@ loans:
   onCallSupport:
       - (666) 111-1111
       - (666) 111-2222
+
+
+info:
+  app:
+    name: "loans"
+    description: "Eazy Bank Loans Microservice"
+    version: "1.0.0"

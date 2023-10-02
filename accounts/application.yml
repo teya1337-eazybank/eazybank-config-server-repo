@@ -1,7 +1,3 @@
-logging:
-  level:
-    com.teya1337.accounts: DEBUG
-
 accounts:
     message: "Welcome to EazyBank Accounts Default APIs"
     contactDetails:
@@ -10,3 +6,9 @@ accounts:
     onCallSupport:
       - (555) 555-1111
       - (555) 555-2222
+
+info:
+  app:
+    name: "accounts"
+    description: "Eazy Bank Accounts Microservice"
+    version: "1.0.0"

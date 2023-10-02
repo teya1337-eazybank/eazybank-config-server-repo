@@ -1,7 +1,3 @@
-logging:
-  level:
-    com.teya1337.cards: DEBUG
-
 cards:
   message: "Welcome to EazyBank Cards Default APIs"
   contactDetails:
@@ -10,3 +6,9 @@ cards:
   onCallSupport:
     - (999) 444-2222
     - (999) 444-3333
+
+info:
+  app:
+    name: "cards"
+    description: "Eazy Bank Cards Microservice"
+    version: "1.0.0"
