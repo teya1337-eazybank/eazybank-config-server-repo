@@ -43,7 +43,8 @@ spring:
       schema-locations: classpath:scripts/init-schema.sql
       mode: always
 
-  # DESC: This needs to be here and not at config-server-repo to work
+  # DESC: For spring cloud bus and refreshing microservices' configs with the config-server
+  # NOTE: rabbitmq is used to relay info to microservices that configs at the config-server have been updated
   rabbitmq:
     host: ${RABBITMQ_HOST}
     port: ${RABBITMQ_PORT}
