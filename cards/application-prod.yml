@@ -6,3 +6,6 @@ cards:
   onCallSupport:
     - (999) 777-8888
     - (999) 777-9999
+
+build:
+  version: "1.0.0"

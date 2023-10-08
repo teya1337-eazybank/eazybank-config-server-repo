@@ -12,3 +12,6 @@ info:
     name: "cards"
     description: "Eazy Bank Cards Microservice"
     version: "1.0.0"
+
+build:
+  version: "3.0.0"

@@ -12,3 +12,6 @@ info:
     name: "accounts"
     description: "Eazy Bank Accounts Microservice"
     version: "1.0.0"
+
+build:
+  version: "3.0.0"

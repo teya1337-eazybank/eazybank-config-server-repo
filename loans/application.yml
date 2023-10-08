@@ -13,3 +13,6 @@ info:
     name: "loans"
     description: "Eazy Bank Loans Microservice"
     version: "1.0.0"
+
+build:
+  version: "3.0.0"
