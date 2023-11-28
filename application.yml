@@ -59,7 +59,16 @@ spring:
   #   username: ${RABBITMQ_USERNAME}
   #   password: ${RABBITMQ_PASSWORD}
 
+  # NOTE: Uncomment when using k8s service discovery
+  # NOTE: Comment out when not using k8s service discovery
+  cloud:
+    kubernetes:
+      discovery:
+        # DESC: Allow the services to discovery k8s service discovery in other namespaces besides the "default" namespace
+        all-namespaces: true
 
+
+# NOTE: Uncomment when using eureka (and not k8s service discovery)
 # NOTE: Comment out eureka when using k8s service discovery
 # eureka:
 #   instance:
