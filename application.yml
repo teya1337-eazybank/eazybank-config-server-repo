@@ -64,6 +64,7 @@ spring:
   cloud:
     kubernetes:
       discovery:
+        enabled: true
         # DESC: Allow the service to discover the k8s discovery server in other namespaces besides the "default" namespace
         all-namespaces: true
 
